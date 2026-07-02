@@ -1,3 +1,5 @@
+# MyReads Project
+
 MyReads is a React application developed as the final assessment project for Udacity's **React Fundamentals** course.
 
 The application allows users to organise their personal library by placing books into one of three shelves:
